@@ -36,19 +36,3 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<!-- 注意：必须把下面两行链接中的 YOUR_GITHUB_USERNAME 替换成你真实的 GitHub 用户名！ -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lukelalalalll&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukelalalalll&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lukelalalalll&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
