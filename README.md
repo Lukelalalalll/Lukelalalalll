@@ -17,7 +17,6 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[你的毕业设计项目 / 个人项目名称]**
 - 🌱 I’m currently diving deeper into **Web Development & React**
 - 💼 Open for **Software Engineering / Front-end Developer** Internships or New Grad Roles
 - 💬 Ask me about **HTML, CSS, JS, and life at HKU!**
