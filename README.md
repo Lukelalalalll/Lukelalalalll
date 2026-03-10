@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there! 👋 I'm Luke ！
+# Hi there! 👋 I'm Luke
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Web+Developer;HKU+Year+4)](https://git.io/typing-svg)
 
@@ -10,7 +10,6 @@
 
 <!-- 社交链接小徽章 (可替换为你自己的链接) -->
 <a href="tianhaozhang03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="你的LinkedIn主页链接"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
@@ -22,7 +21,6 @@
 - 🌱 I’m currently diving deeper into **Web Development & React**
 - 💼 Open for **Software Engineering / Front-end Developer** Internships or New Grad Roles
 - 💬 Ask me about **HTML, CSS, JS, and life at HKU!**
-- ⚡ Fun fact: **[写一个关于你的有趣小事实，比如：代码写累了喜欢去坚尼地城看海]**
 
 ---
 
